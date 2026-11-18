@@ -12,3 +12,4 @@
 /Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/Module8Lab.pdb
 /Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/Module8Lab.genruntimeconfig.cache
 /Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/ref/Module8Lab.dll
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/Module8Lab.sourcelink.json
