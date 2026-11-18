@@ -1,0 +1,14 @@
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/bin/Debug/net10.0/Module8Lab
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/bin/Debug/net10.0/Module8Lab.deps.json
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/bin/Debug/net10.0/Module8Lab.runtimeconfig.json
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/bin/Debug/net10.0/Module8Lab.dll
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/bin/Debug/net10.0/Module8Lab.pdb
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/Module8Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/Module8Lab.AssemblyInfoInputs.cache
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/Module8Lab.AssemblyInfo.cs
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/Module8Lab.csproj.CoreCompileInputs.cache
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/Module8Lab.dll
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/refint/Module8Lab.dll
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/Module8Lab.pdb
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/Module8Lab.genruntimeconfig.cache
+/Users/salma/Desktop/DOTNET-PROJECTS/Labs/Module8Lab/obj/Debug/net10.0/ref/Module8Lab.dll
